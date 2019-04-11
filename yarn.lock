@@ -6029,6 +6029,11 @@ schema-utils@^1.0.0:
     ajv-errors "^1.0.0"
     ajv-keywords "^3.1.0"
 
+scrollbooster@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/scrollbooster/-/scrollbooster-1.1.0.tgz#7da2febe93cb9035c0d36b8bee96a4a0cc890291"
+  integrity sha512-6JHNzOYbPIJUtVcLYMtN1PVaO3FSBmTObbskM5boY78DX2hlBLOa/iqMyfChIB9m/F9NCD1xQ/jNSmeJDkry0A==
+
 select-hose@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/select-hose/-/select-hose-2.0.0.tgz#625d8658f865af43ec962bfc376a37359a4994ca"
