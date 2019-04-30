@@ -48,13 +48,13 @@
     text-align: center;
   }
 
-  .wrapper {
+  /* .wrapper {
     overflow: hidden;
     margin: auto;
     width: 1400px;
     height: 700px;
     border: 2px solid orange;
-  }
+  } */
 
   .inner {
     background: skyblue;
@@ -64,6 +64,8 @@
 
   #scroll .wrapper {
     overflow: scroll;
+    width: 1400px;
+    height: 700px;
 
   }
 </style>
